@@ -9,10 +9,6 @@ portfolio/
 |--- index.html  
 |--- style.css  
 |--- script.js  
-|--- images/  
-  |--- project1.jpg  
-  |--- project2.jpg  
-  |--- project3.jpg  
 
 ## Fonctionnalités 
 Page d'accueil: Présente une introduction et des liens vers les autres sections du site.  
