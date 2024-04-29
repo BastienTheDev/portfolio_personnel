@@ -3,7 +3,7 @@
 ## Description
 Ce projet est un portfolio personnel simple conçu pour présenter vos compétences, projets et informations de contact. Il comprend une page d'accueil, une section portfolio, une section à propos, et un formulaire de contact. 
 
-Arborescence des fichiers 
+## Arborescence des fichiers 
 lua 
 Copy code 
 portfolio/ 
@@ -14,7 +14,8 @@ portfolio/
       |--- project1.jpg 
       |--- project2.jpg 
       |--- project3.jpg 
-Fonctionnalités 
+
+##Fonctionnalités 
 Page d'accueil: Présente une introduction et des liens vers les autres sections du site. 
 Portfolio: Affiche une galerie de vos projets avec des images et des descriptions. 
 À propos: Présente des informations détaillées sur vous et vos compétences. 
